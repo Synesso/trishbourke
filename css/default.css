@@ -2,7 +2,7 @@ body {
   background-image: url('../img/green_cup.png');
 }
 header {
-  padding-top: 20px;
+  padding: 20px 0;
 }
 #outer-panel {
   background-image: url('../img/crossword.png');

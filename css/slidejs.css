@@ -9,7 +9,7 @@ body {
 }
 
 #slides .slidesjs-navigation {
-  margin-top:5px;
+  margin-top:20px;
 }
 
 a.slidesjs-next,
@@ -63,7 +63,7 @@ a:hover.slidesjs-stop {
 }
 
 .slidesjs-pagination {
-  margin: 7px 0 0;
+  margin: 20px 0 0;
   float: right;
   list-style: none;
 }
