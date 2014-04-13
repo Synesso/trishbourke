@@ -1,6 +1,9 @@
 body {
   background-image: url('../img/green_cup.png');
 }
+header {
+  padding-top: 20px;
+}
 #outer-panel {
   background-image: url('../img/crossword.png');
   margin: -20px auto 0;
