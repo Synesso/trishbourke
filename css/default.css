@@ -1,21 +1,26 @@
 body {
-  background-image: url('../img/green_cup.png');
+    background-image: url('../img/green_cup.png');
 }
+
 header {
-  padding: 20px 0;
+    padding: 20px 0;
 }
+
 #outer-panel {
-  background-image: url('../img/crossword.png');
-  margin: -20px auto 0;
-  padding-top: 20px;
-  width: 600px;
-  height: 100%;
+    background-image: url('../img/crossword.png');
+    margin: -20px auto 0;
+    padding-top: 20px;
+    width: 600px;
+    height: 100%;
 }
+
 #centre-panel {
-  margin: 0 auto 0;
-  width: 443px;
+    margin: 0 auto 0;
+    width: 443px;
 }
+
 .artwork {
-  width: 443px;
-  height: 600px;
+    width: 443px;
+    height: 600px;
+    border: 0;
 }
