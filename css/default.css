@@ -10,17 +10,18 @@ header {
     background-image: url('../img/crossword.png');
     margin: -20px auto 0;
     padding-top: 20px;
-    width: 600px;
+    width: 480px;
     height: 100%;
 }
 
 #centre-panel {
-    margin: 0 auto 0;
+    margin-left: auto;
+    margin-right: auto;
     width: 443px;
 }
 
 .artwork {
-    width: 443px;
-    height: 600px;
+    height: 450px;
+    width: 333px;
     border: 0;
 }
