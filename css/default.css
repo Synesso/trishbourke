@@ -3,12 +3,14 @@ body {
 }
 
 header {
-    padding: 20px 0;
+    padding: 20px 0 5px;
 }
 
 #outer-panel {
     background-image: url('../img/crossword.png');
-    margin: -20px auto 0;
+    position: fixed;
+    left: 50%;
+    margin: -20px 0 0 -240px;
     padding-top: 20px;
     width: 480px;
     height: 100%;
@@ -17,11 +19,9 @@ header {
 #centre-panel {
     margin-left: auto;
     margin-right: auto;
-    width: 443px;
+    width: 333px;
 }
 
 .artwork {
-    height: 450px;
-    width: 333px;
     border: 0;
 }
