@@ -1,5 +1,8 @@
 body {
     background-image: url('../img/green_cup.png');
+    margin: 0;
+    padding: 0;
+    height: 100%;
 }
 
 header {
@@ -61,11 +64,23 @@ footer {
     color: rgb(73, 105, 77);
     position: absolute;
     bottom: 0;
+    left: 0;
     width: 98%;
+    height: 20px;
     padding-bottom: 10px;
 }
 
 footer a {
     color: rgb(73, 105, 77);
     text-decoration: none;
+}
+
+#wrapper {
+    min-height: 100%;
+    position: relative;
+}
+
+#content {
+    padding: 10px;
+    padding-bottom: 20px;
 }
